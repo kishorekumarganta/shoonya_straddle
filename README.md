@@ -21,11 +21,15 @@ The Buy orders will be SL-LMT orders
 
 '''
 How to Use:
-
 1.Download the repository, change the details in the config.py file
+
 2.Login.py is used to generate and store the token.
+
 3.straddle.py file is the file you need to run the straddle strategy
+
 4.Options Expiry is calculated automatically, But please cross check
+
 5.This is just an example , do change as per your requirements
+
 6.There might be slippages while doing it live
 '''
