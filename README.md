@@ -42,3 +42,6 @@ How to Use:
 First Run Login.py
 
 it will create shoonyakey.txt directly
+
+
+change time in stradlle.py file to check on offtime.
