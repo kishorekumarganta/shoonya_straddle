@@ -38,3 +38,7 @@ How to Use:
 
 '''
 
+
+First Run Login.py
+
+it will create shoonyakey.txt directly
