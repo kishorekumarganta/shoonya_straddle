@@ -18,6 +18,8 @@ By default method we can not run two or more files simultaneously.
 The sell orders will be market orders
 The Buy orders will be SL-LMT orders
 
+
+'''
 How to Use:
 
 1.Download the repository, change the details in the config.py file
@@ -26,3 +28,4 @@ How to Use:
 4.Options Expiry is calculated automatically, But please cross check
 5.This is just an example , do change as per your requirements
 6.There might be slippages while doing it live
+'''
